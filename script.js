@@ -1,4 +1,5 @@
-let names = require('./data.js');
+// load data.js file
+let names = require('./data');
 
 console.log('JS loaded');
 console.log();
